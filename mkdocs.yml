@@ -1,0 +1,13 @@
+site_name: 9tYqNe5RTDSwSB9A
+site_url: https://9tYqNe5RTDSwSB9A.github.io
+
+nav:
+  - Home: index.md
+  - About: test1.md
+  - This is a test: test2.md
+
+theme:
+  name: mkdocs
+  locale: it
+  highlightjs: true
+
